@@ -1,6 +1,8 @@
 # FYP
 SMART ROBOTIC QUALITY INSPECTION SYSTEM
-this project was intended for my thesis paper
+
+Objective : To design and develop a smart robotics arm which has the capability to
+perform quality inspection and segregate parts based on the types of defects. 
 
 Main Hardware Components;
 1. Raspberry Pi 4B
@@ -8,5 +10,6 @@ Main Hardware Components;
 3. 6 DOF Robotic Arm
 
 Main Software Tools;
-1. Thonny IDE
+1. Thonny IDE (Raspberry Pi)
 2. Google Collab
+3. LabelImg
