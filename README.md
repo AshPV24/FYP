@@ -1,5 +1,5 @@
-# FYP
-SMART ROBOTIC QUALITY INSPECTION SYSTEM
+# SRQIS
+SMART ROBOTIC QUALITY INSPECTION SYSTEM (SRQIS)
 
 Objective : To design and develop a smart robotics arm which has the capability to
 perform quality inspection and segregate parts based on the types of defects. 
