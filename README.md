@@ -14,3 +14,5 @@ Main Software Tools;
 1. Thonny IDE ( built in Raspberry Pi os)
 2. Google Collab
 3. LabelImg.py (Raspberry Pi)
+
+   
