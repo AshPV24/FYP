@@ -15,4 +15,5 @@ Main Software Tools;
 2. Google Collab
 3. LabelImg.py (Raspberry Pi)
 
-   
+Outcome Video Link    
+https://youtu.be/B_Nlj3DcTMg
